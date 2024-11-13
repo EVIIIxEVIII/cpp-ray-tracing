@@ -2,7 +2,6 @@
 #include <iostream>
 #include <fstream>
 #include "float.h"
-
 #include "utils/hitable_list.h"
 #include "utils/sphere.h"
 #include "utils/material.h"
